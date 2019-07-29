@@ -1,14 +1,14 @@
 UNLV-ISRI OCR Accuracy Report Version 5.1
 -----------------------------------------
    50499   Characters
-   15418   Errors
-   72.37%  Accuracy
+   19418   Errors
+   68.37%  Accuracy
 
        1   Reject Characters
        0   Suspect Markers
        0   False Marks
     0.00%  Characters Marked
-   72.38%  Accuracy After Correction
+   68.38%  Accuracy After Correction
 
      Ins    Subst      Del   Errors
        0        5        0        5   Marked
