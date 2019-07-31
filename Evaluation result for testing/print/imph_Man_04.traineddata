@@ -1,0 +1,67 @@
+ocrevalutf8 accuracy correct.txt ocr.txt
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+    2520   Characters
+      67   Errors
+   97.34%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   97.34%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       6       44       17       67   Unmarked
+       6       44       17       67   Total
+
+   Count   Missed   %Right
+     264        0   100.00   ASCII Spacing Characters
+    2256       50    97.78   Bengali
+    2520       50    98.02   Total
+
+  Errors   Marked   Correct-Generated
+      36        0   {ব}-{র}
+      15        0   {}-{<\n>}
+      12        0   {্ব}-{া}
+       4        0   {য়}-{য়}
+
+   Count   Missed   %Right
+      40        0   100.00   {<\n>}
+     224        0   100.00   { }
+       4        0   100.00   {ং}
+      92        0   100.00   {ই}
+     108        0   100.00   {ক}
+      42        0   100.00   {খ}
+      30        0   100.00   {গ}
+       2        0   100.00   {চ}
+      26        0   100.00   {জ}
+      24        0   100.00   {ঞ}
+     134        0   100.00   {ট}
+       4        0   100.00   {ত}
+       2        0   100.00   {থ}
+      54        0   100.00   {দ}
+      86        0   100.00   {ন}
+      16        0   100.00   {প}
+      50        0   100.00   {ফ}
+      88       42    52.27   {ব}
+      24        0   100.00   {ভ}
+     154        0   100.00   {ম}
+     202        0   100.00   {র}
+      48        0   100.00   {ল}
+       6        0   100.00   {শ}
+      48        0   100.00   {ষ}
+     132        0   100.00   {স}
+       2        0   100.00   {হ}
+     174        0   100.00   {া}
+      66        0   100.00   {ি}
+      36        0   100.00   {ী}
+       6        0   100.00   {ু}
+     144        0   100.00   {ে}
+       2        0   100.00   {ৈ}
+       6        0   100.00   {ো}
+     408        6    98.53   {্}
+       4        0   100.00   {ৎ}
+       2        2     0.00   {য়}
+      30        0   100.00   {ৱ}
